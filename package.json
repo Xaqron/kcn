@@ -1,0 +1,36 @@
+{
+  "name": "kcn",
+  "version": "0.1.0",
+  "description": "Kurento client node.js module",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "fix-style": "standard --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xaqron/kcn.git"
+  },
+  "keywords": [
+    "Kurento",
+    "Kurento client",
+    "webrtc",
+    "media server",
+    "node js"
+  ],
+  "author": "Xaqron",
+  "license": "MIT",
+  "homepage": "https://github.com/Xaqron/kcn#readme",
+  "dependencies": {
+    "html5-websocket": "^2.0.1",
+    "reconnecting-websocket": "^3.2.2",
+    "uuid": "^3.1.0",
+    "ws": "^3.2.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
