@@ -2,7 +2,7 @@
   "name": "kcn",
   "version": "0.1.0",
   "description": "Kurento client node.js module",
-  "main": "index.js",
+  "main": "./lib/kcn",
   "directories": {
     "lib": "lib"
   },
