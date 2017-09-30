@@ -31,6 +31,7 @@
     "ws": "^3.2.0"
   },
   "devDependencies": {
-    "standard": "^10.0.3"
+    "jsdoc": "^3.5.5",
+    "standard": "*"
   }
 }
